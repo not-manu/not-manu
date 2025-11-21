@@ -1,7 +1,7 @@
 <p align="center">
 <picture>
   
-![Banner](/OTHERWORLD_View.webp)
+![Banner](/Banner.jpeg)
   
 </picture>
 </p>
